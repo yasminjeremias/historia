@@ -2,6 +2,7 @@ body {
     color: #912c2c;
     background: rgb(211, 163, 108);
     margin: 0px;
+    font-family:"Lobster Two",sans-serif;
 }
 
 header {
@@ -21,4 +22,11 @@ section {
 
 .chamada-texto {
     margin-right: 5%;
+}
+
+h1{
+    fon-size: 40px;
+}
+p{
+    font-size: 20px;
 }
