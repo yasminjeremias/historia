@@ -2,7 +2,7 @@ body {
     color: #912c2c;
     background: rgb(211, 163, 108);
     margin: 0px;
-    font-family:"EB Garamond",sans-serif;
+    font-family: "EB Garamond", sans-serif;
 }
 
 header {
@@ -24,9 +24,10 @@ section {
     margin-right: 5%;
 }
 
-h1{
+h1 {
     font-size: 40px;
 }
-p{
+
+p {
     font-size: 20px;
 }
